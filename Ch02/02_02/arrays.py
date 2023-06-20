@@ -56,6 +56,8 @@ mat.shape
 mat2 = mat.reshape((3, 4))
 mat2[1, 1] = 1000
 mat
+mat2
 
 # %%
 mat.T
+# %%

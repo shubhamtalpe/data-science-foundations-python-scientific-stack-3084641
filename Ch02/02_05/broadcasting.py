@@ -5,7 +5,7 @@ arr = np.arange(3)
 arr + 4
 
 # %%
-mat = np.arange(9).reshape((3,3))
+mat = np.arange(9).reshape((3, 3))
 vec = np.arange(3)
 
 mat + vec
@@ -17,3 +17,4 @@ v2
 
 # %%
 v1 + v2
+# %%
